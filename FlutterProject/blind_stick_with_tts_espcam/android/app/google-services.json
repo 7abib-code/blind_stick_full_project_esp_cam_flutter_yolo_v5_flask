@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "646868314806",
+    "firebase_url": "https://objectdetection-a5557-default-rtdb.firebaseio.com",
+    "project_id": "objectdetection-a5557",
+    "storage_bucket": "objectdetection-a5557.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646868314806:android:45494161b32a9879859417",
+        "android_client_info": {
+          "package_name": "com.example.blind_stick_with_tts_espcam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf9xG8q8WhDLEotL15xhwcrS9E9BcfzpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
